@@ -9,7 +9,6 @@ Perfil activo en GitHub con proyectos de backend (APIs, POS, sistemas de ventas)
 
 <!-- Badges generales -->
 <!-- Stats cards (usa tu username) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhon1840&show_icons=true&theme=radical)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhon1840&layout=compact&theme=radical)
 
 <!-- Tech badges / icons -->
@@ -53,32 +52,3 @@ Perfil activo en GitHub con proyectos de backend (APIs, POS, sistemas de ventas)
 - Documentación técnica por endpoint y scripts para correr localmente.
 
 ---
-
-## 📂 README por repo (plantilla técnica)
-Abajo tienes una **plantilla** que puedes pegar en el `README.md` de cada repo para hacerlo profesional y útil a recruiters / contribuidores.
-
-### Plantilla `README.md` por repo (copia y rellena)
-```md
-# Nombre-del-Repo
-Breve descripción del proyecto (¿qué hace? para quién? objetivo).
-
-## Tecnologías
-- PHP / Laravel
-- MySQL
-- Docker (opcional)
-- Otros: Node.js, Redis, etc.
-
-## Estado
-- `WIP` / `Complete` / `Experimental`
-
-## Características principales
-- Lista de features (CRUD, autenticación, endpoints principales, import/export, etc).
-
-## Endpoints principales (ejemplos)
-- `GET /api/products` — lista productos  
-  - Request: `GET /api/products`  
-  - Response (200):
-  ```json
-  [
-    { "id": 1, "nombre": "Producto A", "precio": 50.0 }
-  ]
